@@ -1,0 +1,22 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<ContentPage xmlns="http://xamarin.com/schemas/2014/forms"
+             xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml"
+             xmlns:local="clr-namespace:LocationSampleApp"
+             x:Class="LocationSampleApp.MainPage">
+
+  <Grid>
+    <Grid.RowDefinitions>
+      <RowDefinition Height="3.333*"></RowDefinition>
+      <RowDefinition Height="3.333*"></RowDefinition>
+      <RowDefinition Height="3.333*"></RowDefinition>
+    </Grid.RowDefinitions>
+
+    <StackLayout Grid.Row="1">
+      <Label x:Name="txtLat" Text="Latitude: " VerticalOptions="Center" HorizontalOptions="Center"></Label>
+      <Label x:Name="txtLong" Text="Longitude: " VerticalOptions="Center" HorizontalOptions="Center"></Label>
+      <Button x:Name="btnGetLocation" Text="Get Current Location"></Button>
+    </StackLayout>
+    
+  </Grid>
+
+</ContentPage>

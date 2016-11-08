@@ -1,0 +1,2 @@
+c:\users\conor\documents\visual studio 2015\Projects\LocationSampleApp\LocationSampleApp\LocationSampleApp.Windows\LocationSampleApp.Windows.csproj;neutral
+c:\users\conor\documents\visual studio 2015\Projects\LocationSampleApp\LocationSampleApp\LocationSampleApp\LocationSampleApp.csproj;neutral
