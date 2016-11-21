@@ -1,2 +1,2 @@
 android.app.Application
-LocationSampleApp.Droid
+LocationSampleApp.LocationSampleApp

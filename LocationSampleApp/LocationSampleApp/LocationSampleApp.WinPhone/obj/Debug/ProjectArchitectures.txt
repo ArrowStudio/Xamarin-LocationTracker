@@ -1,2 +1,2 @@
-c:\users\conor\documents\visual studio 2015\Projects\LocationSampleApp\LocationSampleApp\LocationSampleApp.WinPhone\LocationSampleApp.WinPhone.csproj;neutral
-c:\users\conor\documents\visual studio 2015\Projects\LocationSampleApp\LocationSampleApp\LocationSampleApp\LocationSampleApp.csproj;neutral
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp.WinPhone\LocationSampleApp.WinPhone.csproj;neutral
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\LocationSampleApp.csproj;neutral

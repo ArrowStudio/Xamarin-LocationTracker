@@ -17,6 +17,9 @@ namespace LocationSampleApp {
     public partial class MainPage : global::Xamarin.Forms.ContentPage {
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
+        private global::Xamarin.Forms.Maps.Map MyMap;
+        
+        [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private global::Xamarin.Forms.Label txtLat;
         
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
@@ -28,6 +31,7 @@ namespace LocationSampleApp {
         [System.CodeDom.Compiler.GeneratedCodeAttribute("Xamarin.Forms.Build.Tasks.XamlG", "0.0.0.0")]
         private void InitializeComponent() {
             this.LoadFromXaml(typeof(MainPage));
+            MyMap = this.FindByName<global::Xamarin.Forms.Maps.Map>("MyMap");
             txtLat = this.FindByName<global::Xamarin.Forms.Label>("txtLat");
             txtLong = this.FindByName<global::Xamarin.Forms.Label>("txtLong");
             btnGetLocation = this.FindByName<global::Xamarin.Forms.Button>("btnGetLocation");

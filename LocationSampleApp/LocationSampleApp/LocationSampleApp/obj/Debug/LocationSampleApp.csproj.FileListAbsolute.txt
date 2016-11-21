@@ -21,3 +21,30 @@ c:\users\conor\documents\visual studio 2015\Projects\LocationSampleApp\LocationS
 c:\users\conor\documents\visual studio 2015\Projects\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\LocationSampleApp.csprojResolveAssemblyReference.cache
 c:\users\conor\documents\visual studio 2015\Projects\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\LocationSampleApp.dll.mdb
 c:\users\conor\documents\visual studio 2015\Projects\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\LocationSampleApp.dll.mdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\LocationSampleApp.dll
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\LocationSampleApp.pdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Plugin.Geolocator.Abstractions.dll
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Plugin.Geolocator.dll
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Core.dll
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Platform.dll
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Xaml.dll
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Plugin.Geolocator.pdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Plugin.Geolocator.xml
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Plugin.Geolocator.Abstractions.pdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Plugin.Geolocator.Abstractions.xml
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Core.pdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Core.xml
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Platform.pdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Xaml.pdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Xaml.xml
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\LocationSampleApp.MainPage.xaml.g.cs
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\LocationSampleApp.App.xaml.g.cs
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\LocationSampleApp.dll
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\LocationSampleApp.pdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\LocationSampleApp.csprojResolveAssemblyReference.cache
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Maps.dll
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\Xamarin.Forms.Maps.xml
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\LocationSampleApp.dll.mdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\LocationSampleApp.dll.mdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\obj\Debug\LocationSampleApp.dll.mdb
+C:\Users\conor\Documents\GitHub\LocationTracker\LocationSampleApp\LocationSampleApp\LocationSampleApp\bin\Debug\LocationSampleApp.dll.mdb

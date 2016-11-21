@@ -4,6 +4,7 @@ using System.Linq;
 using System.Text;
 using System.Threading.Tasks;
 using Xamarin.Forms;
+using Xamarin.Forms.Maps;
 using Plugin.Geolocator;
 
 namespace LocationSampleApp
@@ -29,6 +30,9 @@ namespace LocationSampleApp
 
             txtLat.Text = "Latitude: " + position.Latitude.ToString();
             txtLong.Text = "Longitude: " + position.Longitude.ToString();
+
+            MyMap.MoveToRegion(MapSpan.FromCenterAndRadius(new Position(position.Latitude, position.Longitude)
+                             , Distance.FromMiles(1)));
         }
     }
 }
